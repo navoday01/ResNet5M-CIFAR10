@@ -34,7 +34,7 @@ python3 ResNetTrain.py
 ```
 ## 🖼️ Testing
 
- To Reproduce the accuracy of the model, run `test.py` and ensure the model is on the right folder. This script will normalise the images to right value.
+ To Reproduce the accuracy of the model, run `FinalTesting.py` and ensure the model is on the right folder. This script will normalise the images to right value.
 ```shell
 cd models
 python3 FinalTesting.py
