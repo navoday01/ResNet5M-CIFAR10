@@ -6,7 +6,7 @@ The ResNet model has led to the establishment for the efficient training of deep
 
 ## Setup
 
-`pip3 install torch torchvision torchaudio torchinfo tensorboard`
+`pip3 install torch torchvision torchaudio torchinfo tensorboard matplotlib`
 
 
 ## Quick Start: using Google Colab
