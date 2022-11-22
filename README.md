@@ -26,7 +26,7 @@ To run a demo file go to following google collab link:
 
 http://www.youtube.com
 
-## ⏳ 🏋️ Training
+## ⏳ Training
 Run train script `ResNetTrain.py` to recreate similar model
 ```shell
 cd models
