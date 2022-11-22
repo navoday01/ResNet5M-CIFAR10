@@ -2,7 +2,9 @@
 
 ## About Project
 
+## Convolution Channel
 
+The number of channels is the decisive factor in attaining high accuracy on the CIFAR-10's test data set. After careful evaluation, it was determined that having higher channels at each layer guarantees a good performance. On one such occasion, a model trained using a lower number of channels had an average accuracy on the test data set of less than 90%. It was noted that a channel size greater than 200 at the final layer dramatically increases accuracy and guarantees it greater than 90%.
 
 ## Results
 
