@@ -22,9 +22,7 @@ cd ResNet5M-CIFAR10
 
 ## 🏁 Quick Start: using Google Colab
 
-To run a demo file go to following google collab link:
-
-http://www.youtube.com
+To run a demo file go to following google collab link: https://colab.research.google.com/github/navoday01/ResNet5M-CIFAR10/blob/main/ResnetQuickTest.ipynbc
 
 ## ⏳ Training
 Run train script `ResNetTrain.py` to recreate similar model
