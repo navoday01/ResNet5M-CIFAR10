@@ -36,11 +36,11 @@ python3 test.py
 
 
 ## 📊 Results
-| Training modality | Approximate GPU memory  | Approximate training time   |
-|-------------------|-------------------------|-----------------------------|
-| Mono              | 9GB                     | 12 hours                    |
-| Stereo            | 6GB                     | 8 hours                     |
-| Mono + Stereo     | 11GB                    | 15 hours                    |
+| Training modality | Approximate GPU memory  | Approximate training time   |                             |
+|-------------------|-------------------------|-----------------------------|-----------------------------|
+| Mono              | 9GB                     | 12 hours                    |                             |       
+| Stereo            | 6GB                     | 8 hours                     |                             |
+| Mono + Stereo     | 11GB                    | 15 hours                    |                             |
 
 ## 📦 Conclusion
 
