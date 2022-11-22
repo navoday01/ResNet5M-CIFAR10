@@ -36,7 +36,7 @@ python3 test.py
 
 
 ## 📊 Results
-| Training modality | Approximate GPU memory  | Approximate training time   |                             |
+| Model Name        | Optimizer               | Total Parameters            | Test Accuracy               |
 |-------------------|-------------------------|-----------------------------|-----------------------------|
 | Mono              | 9GB                     | 12 hours                    |                             |       
 | Stereo            | 6GB                     | 8 hours                     |                             |
