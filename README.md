@@ -23,7 +23,7 @@ cd ResNet5M-CIFAR10
 ## 💽 Quick Start: using Google Colab
 
 To run a demo file go to following google collab link:
-(http://www.youtube.com)
+`http://www.youtube.com`
 
 ## ⏳ Training
 Run train script `train.py` to recreate similar model
