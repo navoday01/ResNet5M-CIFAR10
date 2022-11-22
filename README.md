@@ -27,15 +27,17 @@ To run a demo file go to following google collab link:
 http://www.youtube.com
 
 ## ⏳ Training
-Run train script `train.py` to recreate similar model
+Run train script `ResNetTrain.py` to recreate similar model
 ```shell
-python3 train.py
+cd models
+python3 ResNetTrain.py
 ```
 ## 🖼️ Testing
 
  To Reproduce the accuracy of the model, run `test.py` and ensure the model is on the right folder. This script will normalise the images to right value.
 ```shell
-python3 test.py
+cd models
+python3 FinalTesting.py
 ```
 
 
