@@ -6,6 +6,12 @@ The ResNet model has led to the establishment for the efficient training of deep
 
 ## Setup
 
+“`
+function test() {
+console.log("notice the blank line before this function?");
+}
+“`
+
 ## Quick Start: using Google Colab
 
 ## Training
