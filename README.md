@@ -2,7 +2,7 @@
 
 ## About Project
 
-
+## Methedology
 
 ## Results
 
