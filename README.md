@@ -6,14 +6,34 @@ The ResNet model has led to the establishment for the efficient training of deep
 
 ## ⚙️ Setup
 
+1. Install all the requirements
 ```shell
 pip3 install torch torchvision torchaudio torchinfo tensorboard matplotlib
+```
+2. Clone the GitHub repository
+```shell
 git clone https://github.com/navoday01/ResNet5M-CIFAR10.git
 ```
+3. Change directory into folder
+```shell
+cd ResNet5M-CIFAR10
+```
+
 
 ## Quick Start: using Google Colab
 
 ## Training
+Run train script `train.py` to recreate similar model
+```shell
+python3 train.py
+```
+## Testing
+
+ To Reproduce the accuracy of the model, run `test.py` and ensure the model is on the right folder. This script will normalise the images to right value.
+```shell
+python3 test.py
+```
+
 
 ## Results
 
