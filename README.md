@@ -8,7 +8,7 @@ The ResNet model has led to the establishment for the efficient training of deep
 
 1. Install all the requirements (PyTorch v1.13.0)
 ```shell
-pip3 install torch torchvision torchaudio torchinfo tensorboard matplotlib
+pip3 install torch torchvision torchaudio torchinfo tensorboard
 ```
 2. Clone the GitHub repository
 ```shell
