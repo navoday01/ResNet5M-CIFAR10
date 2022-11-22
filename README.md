@@ -17,6 +17,7 @@ The CIFAR-10 data set has lower resolution images and having deeper networks did
 Each layer in the model was tested using the standard Residual Block, Bottleneck Block or a combination of both at each layer. After evaluation of each style and combination of both, it can be safely said that the standard Residual Block outperforms the rest. Moreover, it also uses fewer parameters, so this ended up being the favorite. It was stated by the authors that the Bottleneck Block works best on deeper networks and since our input images being lower resolution and restrictions of $5$ Million parameters causes some compatibility issues with the Bottleneck style.
 
 ### Optimizers
+Optimizers are critical to reducing the losses attained by the network during the training process, various different optimizers mentioned above. SGD performed best, while Adam was a close second. The deep learning community frequently claim that SGD works best on classification problems, and this may be the reason why SGD performed the best.
 
 ## Conclusion
 
