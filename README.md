@@ -4,7 +4,7 @@ The ResNet model has led to the establishment for the efficient training of deep
 
 ![Alt text](https://github.com/navoday01/ResNet5M-CIFAR10/blob/main/assets/CIFAR10.png)
 
-## Setup
+## ⚙️ Setup
 
 `pip3 install torch torchvision torchaudio torchinfo tensorboard matplotlib`
 cggghbhhhbn
