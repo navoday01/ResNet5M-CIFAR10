@@ -1,5 +1,7 @@
 # ResNet5M-CIFAR10
 
+The ResNet model has led to the establishment for the efficient training of deeper neural networks. This project describes how we achieved higher accuracy while using the same ResNet architecture and the methodology used to optimize the ResNet model with the constrain of 5 million trainable parameters. The hyperparameters that have the greatest influence on the model are also discussed.
+
 ## Setup
 
 ## Quick Start: using Google Colab
