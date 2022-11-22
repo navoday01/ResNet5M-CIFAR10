@@ -20,7 +20,7 @@ cd ResNet5M-CIFAR10
 ```
 
 
-## 💽 Quick Start: using Google Colab
+## 🏁 Quick Start: using Google Colab
 
 To run a demo file go to following google collab link:
 
@@ -32,7 +32,7 @@ Run train script `ResNetTrain.py` to recreate similar model
 cd models
 python3 ResNetTrain.py
 ```
-## 🖼️ Testing
+## 🖼 Testing
 
  To Reproduce the accuracy of the model, run `FinalTesting.py` and ensure the model is on the right folder. This script will normalise the images to right value.
 ```shell
