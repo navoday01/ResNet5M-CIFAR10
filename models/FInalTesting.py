@@ -57,7 +57,8 @@ class finalAcc:
         dataLoader = self.getDataLoaders()
         self.test(dataLoader)
 
-model = torch.jit.load('ResNet.pt')
-summary(model)
-acc = finalAcc(model)
-acc.finalTest()
+if __name__ == "__main__":
+    model = torch.jit.load('ResNet.pt')
+    summary(model)
+    acc = finalAcc(model)
+    acc.finalTest()
