@@ -20,7 +20,7 @@ cd ResNet5M-CIFAR10
 ```
 
 
-## Quick Start: using Google Colab
+## 💽 Quick Start: using Google Colab
 
 ## ⏳ Training
 Run train script `train.py` to recreate similar model
