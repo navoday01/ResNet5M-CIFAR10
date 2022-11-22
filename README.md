@@ -40,11 +40,11 @@ python3 FinalTesting.py
 
 
 ## 📊 Results
-| Model Name        | Optimizer               | Total Parameters            | Test Accuracy               |
-|-------------------|-------------------------|-----------------------------|-----------------------------|
-| Mono              | 9GB                     | 12 hours                    |                             |       
-| Stereo            | 6GB                     | 8 hours                     |                             |
-| Mono + Stereo     | 11GB                    | 15 hours                    |                             |
+| Sr. No.|    Block Type    |  # Residual Blocks at layer  |  # Conv Channels at layer  |  Optimizer  |  Params  |  Final Acc  |
+|--------|------------------|------------------------------|----------------------------|-------------|----------|-------------|
+|   1    | [BN, BN, BN, BN] |         [2,3,2,2]            |     [64,128,192,256]       |    SGD+M    |   4.47M  |  93.32%     | 
+|   2    | [BB, BB, BB, BB] |         [2,3,2,2]            |     [64,128,192,256]       |    Adagrad  |   4.47M  |  90.55%     |
+|   3    | [BB, BB, BB, BB] |         [2,3,2,2]            |     [64,128,192,256]       |    RMSProp  |   4.47M  |  89.13%     |
 
 ## 📦 Conclusion
 
