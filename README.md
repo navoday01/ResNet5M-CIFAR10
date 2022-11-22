@@ -22,12 +22,12 @@ cd ResNet5M-CIFAR10
 
 ## Quick Start: using Google Colab
 
-## Training
+## ⏳ Training
 Run train script `train.py` to recreate similar model
 ```shell
 python3 train.py
 ```
-## Testing
+## 🖼️ Testing
 
  To Reproduce the accuracy of the model, run `test.py` and ensure the model is on the right folder. This script will normalise the images to right value.
 ```shell
@@ -35,13 +35,13 @@ python3 test.py
 ```
 
 
-## Results
+## 📊 Results
 
-## Conclusion
+## 📦 Conclusion
 
 The final model under 5 Million parameters and employing SGD achieved an accuracy of 95.55% on the CIFAR-10 test data set by systematically adjusting the hyperpameters and optimizers.
 
-## Acknowledgement
+## 👩‍⚖️ Acknowledgement
 
 We would like to thank everyone whose comments and suggestions helped us with the project. We appreciate the constant assistance of Professors Chinmay Hegde, Arsalan Mosenia, and the teaching assistant Teal Witter. Last but not least, we would like to express our sincere gratitude to the teaching staff for providing us with the chance to complete these tasks and projects. They were highly beneficial and relevant to comprehending the ideas.
 
