@@ -1,6 +1,6 @@
 # ResNet5M-CIFAR10
 
-## About Project
+## About
 
 ## Methedology
 
