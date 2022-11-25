@@ -1,6 +1,6 @@
 # ResNet5M-CIFAR10
 
-The ResNet model has led to the establishment for the efficient training of deeper neural networks. This project describes how we achieved higher accuracy while using the same ResNet architecture and the methodology used to optimize the ResNet model with the constrain of 5 million trainable parameters on CIFAR-10 dataset.The CIFAR-10 dataset contains 60,000 32x32 color images in 10 different classes. The hyperparameters that have the greatest influence on the model are also discussed. Final models pt file is ResNet.pt
+The ResNet model has led to the establishment for the efficient training of deeper neural networks. This project describes how we achieved higher accuracy while using the same ResNet architecture and the methodology used to optimize the ResNet model with the constrain of 5 million trainable parameters on CIFAR-10 dataset.The CIFAR-10 dataset contains 60,000 32x32 color images in 10 different classes. The hyperparameters that have the greatest influence on the model are also discussed. **Final model's pt file is ResNet.pt**
 
 ![Alt text](https://github.com/navoday01/ResNet5M-CIFAR10/blob/main/assets/CIFAR10-2.png)
 
